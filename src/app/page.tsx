@@ -95,7 +95,7 @@ export default async function Dashboard() {
                 label="TDS"
                 value={decision.tds_ppm}
                 unit="ppm"
-                min={560} max={840}
+                min={100} max={840}
               />
             </div>
 
